@@ -54,7 +54,7 @@ onMounted(() => {
 <template>
   <main class="app">
     <section class="greeting">
-      <h1>A TODO APP</h1>
+      <h1>TaskMe</h1>
       <h2 class="title">
         Hello,
         <input type="text" id="name" placeholder="Name please" v-model="name" />

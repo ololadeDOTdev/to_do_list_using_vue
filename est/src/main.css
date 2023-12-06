@@ -194,7 +194,9 @@ input:checked ~ .bubble::after {
   box-shadow: var(--shadow);
   margin-bottom: 1rem;
 }
-
+.title {
+  margin-bottom: -20px;
+}
 .todo-item label {
   display: block;
   margin-right: 1rem;
